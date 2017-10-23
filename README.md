@@ -13,7 +13,6 @@ Tu equipo de diseño te ha pasado estos demos para que repliques:
 
 ### Menú horizontal
 
-![recursos](horizontal/assets/imgs/menuhor.gif)
+![recursos](assets/imgs/menuhor.gif)
 
-### Menú vertical
-![recursos](vertical/assets/imgs/menuver.gif)
+
